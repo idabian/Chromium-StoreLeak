@@ -1,8 +1,7 @@
 # Chromium-StoreLeak
 This repository contains a basic Proof of Concept for the StoreLeak vulnerability in Chromium-based browsers.
 ## Description
-The StorLeak vulnerability is a sensitive information exposure vulnerability in Chromium-based browsers, which Google did not approve.<br>
-It was not approved as it is not part of the scope relevant to Chromium. However, it can still be used to target victims and compromise accounts.
+The StorLeak vulnerability is a sensitive information exposure vulnerability in Chromium-based browsers, which Google did not approve. It was not approved as it is not part of the scope relevant to Chromium. However, it can still be used to target victims and compromise accounts.
 ## Usage
 ### Import the script
 In PowerShell, load the script:
