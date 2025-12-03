@@ -20,7 +20,7 @@ Invoke-ChromiumStoreLeak -Browser <Browser> -Storage Local
 ### Save Information in Log Files
 The script also provides an option to store the output to a file for later review:
 ```powershell
-Invoke-ChromiumStoreLeak -Browser  <Browser> -Storage <Storage> -OutFile storage-log.txt
+Invoke-ChromiumStoreLeak -Browser  <Browser> -Storage <Storage> -OutFile '.\storage-log.txt'
 ```
 ## Disclaimer
 This tool is intended solely for use on machines that you own or have explicit permission to test. Unauthorised usage without consent is illegal and strictly prohibited.
