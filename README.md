@@ -23,7 +23,7 @@ The script also provides an option to store the output to a file for later revie
 Invoke-ChromiumStoreLeak -Browser  <Browser> -Storage <Storage> -OutFile storage-log.txt
 ```
 ## Disclaimer
-This tool is intended solely for use on AWS accounts that you own or have explicit permission to test. Unauthorized access or scanning of accounts without consent is illegal and strictly prohibited.
+This tool is intended solely for use on machines that you own or have explicit permission to test. Unauthorised usage without consent is illegal and strictly prohibited.
 By using this tool, you agree to comply with all relevant laws and your organization's security policies. The authors are not responsible for misuse or any damage caused by this tool.
 ## License
 MIT License<br>
